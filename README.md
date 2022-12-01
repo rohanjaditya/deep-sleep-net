@@ -1,7 +1,7 @@
 # Sleep Stage Prediction using CNN and Attention
 
 ## Dataset
-We use the [Sleep-EDF Database Expanded](https://physionet.org/content/sleep-edfx/1.0.0/) which contains 197 whole-night PolySomnoGraphic (PSG) sleep recordings, containing EEG, EOGn and EMG markers. </br>
+We used the [Sleep-EDF Database Expanded](https://physionet.org/content/sleep-edfx/1.0.0/) which contains 197 whole-night PolySomnoGraphic (PSG) sleep recordings, containing EEG, EOGn and EMG markers. </br>
 For the project, we used the data of 22 patients. Each patient had data available for two nights, each night lasting around 10 hours. The signals were recorded with a frequency of 100Hz.
 
 ## Preprocessing
